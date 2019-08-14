@@ -17,6 +17,5 @@ También disponemos del canal #medellin en el Slack oficial de Papers We Love. P
 ## Contact
 
 * **Camilo Aguilar** [camilo.aguilar@gmail.com](mailto:camilo.aguilar@email.com)
-* **David Castillo** [castillobgr@gmail.com](mailto:castillobgr@gmail.com)
 * **Simón Escobar** [sescobb27@gmail.com](mailto:sescobb27@gmail.com)
 
