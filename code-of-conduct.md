@@ -13,7 +13,6 @@ We value the participation of each member of the community and want all attendee
 If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/medellin), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, or [PapersWeLove.org](http://paperswelove.org) please contact:
 
 - **Camilo Aguilar** [camilo.aguilar@gmail.com](mailto:camilo.aguilar@email.com)
-- **David Castillo** [castillobgr@gmail.com](mailto:castillobgr@gmail.com)
 - **Simón Escobar** [sescobb27@gmail.com](mailto:sescobb27@gmail.com)
 - **All** [contact@paperswelove.org](mailto:contact@paperswelove.org)
 
